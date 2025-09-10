@@ -6,6 +6,7 @@ As a part of your end year networking project, you are required to design and im
 5. Each floor is expected to have WIFI networks connected to laptops and phones.
 6. Each department is expected to have a printer.
 7. Each department is expected to be in different VLAN with the following details
+
    1st Floor;
 
   Reception- VLAN 80, Network of 192.168.8.0/24
