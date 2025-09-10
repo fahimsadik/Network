@@ -8,6 +8,7 @@ As a part of your end year networking project, you are required to design and im
 7. Each department is expected to be in different VLAN with the following details
 
    1st Floor:
+   
       Reception- VLAN 80, Network of 192.168.8.0/24
    
       Store- VLAN 70, Network of 192.168.7.0/24
@@ -16,7 +17,7 @@ As a part of your end year networking project, you are required to design and im
    
   2nd Floor:
   
-     Finance- VLAN 50, Network of 192.168.5.0/24 HR-VLAN 40, Network of 192.168.4.0/24
+     • Finance- VLAN 50, Network of 192.168.5.0/24 HR-VLAN 40, Network of 192.168.4.0/24
      
      • Sales- VLAN 30, Network of 192.168.3.0/24
      
@@ -35,4 +36,4 @@ As a part of your end year networking project, you are required to design and im
 12. Configure SSH in all the routers for remote login.
 13. In IT department, add PC called Test-PC to port fa0/1 and use it to test remote login. 13. Configure port security to IT-dept switch to allow only Test-PC to access port fa0/1 (use sticky method to obtain mac-address with violation mode of shutdown.)
 
-14. <img width="1917" height="744" alt="hotelmanagement" src="https://github.com/user-attachments/assets/a0531330-7fe9-4171-beb8-5d5cd42c9768" />
+<img width="1917" height="744" alt="hotelmanagement" src="https://github.com/user-attachments/assets/a0531330-7fe9-4171-beb8-5d5cd42c9768" />
